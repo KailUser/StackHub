@@ -7,7 +7,8 @@ He is saving to File Result.html
 
 ![Result](https://i.ibb.co/ZLZh4Zh/firefox-FBk6-NTo-Tpz.png)
 
-|Version| Status      |
-| 1.0v | Working ✅   |
-| 2.0v | In Working⚒️ |
-
+| Version 	| Support 	| Status  	|
+|---------	|---------	|---------	|
+| 1.0v    	|   ✅     	| Working 	|
+| 1.5v    	|   ⚒️     	| In Dev  	|
+| 2.0v    	|   ⚒️     	| In Dev  	|
