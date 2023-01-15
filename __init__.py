@@ -53,7 +53,7 @@ class StackEng:
         url = input("") # replace with the URL of the website you want to scrape
         print("Your Name on Stackoverflow")
         url_name = str.lower(input())
-        url2 = f"https://ru.stackoverflow.com/users/{url}/{url_name}?tab=profile"
+        url2 = f"https://stackoverflow.com/users/{url}/{url_name}?tab=profile"
 
         # Make a request to the website
         
