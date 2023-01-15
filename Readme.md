@@ -16,3 +16,10 @@ English:
 Results:
 
 ![Result](https://i.ibb.co/72dWX2S/firefox-kcuog2n2d0.png)
+ 
+| Version 	| Support 	| Status                 	|
+|---------	|---------	|------------------------	|
+| 1.0v    	|   ❌     	| Support is not working 	|
+| 1.5v    	|   ✅     	| Working                	|
+| 2.0v    	|   ⚒️     	| In Dev                 	|
+| 2.5v    	|   ⚒️     	| In Dev                 	|
