@@ -8,8 +8,11 @@ Everything is easy to use
 ScreenShots:
 Hub: 
 ![Hub](https://i.ibb.co/fk5x6M9/cmd-q-Ff-YWWb-GK6.png)
+
 English: 
 
 ![English](https://i.ibb.co/fnk6F3Z/cmd-P5-P72nh-NFn.png)
+
 Results:
+
 ![Result](https://i.ibb.co/72dWX2S/firefox-kcuog2n2d0.png)
