@@ -1,5 +1,5 @@
-﻿## Stackoverflow_info
-Stackoverflow_info is a program for checking statistics on the StackOverflow website in English and Russian versions
+﻿## StackHub
+StackHub is a program for checking statistics on the StackOverflow website in English and Russian versions
 How to launch?
 Everything is easy to use 
 1. `pip install -r requirements.txt`
